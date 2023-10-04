@@ -31,5 +31,5 @@ class Product {
 
 
 // Test the Product class
-$product = new Product( 3, 'T-shirtdd', 19.9 );
+$product = new Product( 1, 'T-shirt', 19.99 );
 $product->showDetails();
